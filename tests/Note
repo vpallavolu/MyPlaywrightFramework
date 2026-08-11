@@ -1,0 +1,41 @@
+There are two assertions in playwright soft/ hard assertions
+
+Comparing with exepcted and actual
+
+There are mutiple assertions in playwright
+
+TestNG or JUNIT depends on third party in selenium
+
+
+Playwright we have imbuild assertions
+
+p1 --> passed
+p2 --> falied
+p3 // it won't execution in normal assertion
+IF any line of statmeent failed it won't execute in hard assertion 
+
+
+S1 --> p
+s2  ---> falied
+s3  --> passed
+
+if any line of statment is failed it will continue exetuion and failly output as failed
+
+IF we have only one assert go with hard assertion 
+
+if we have multiple assertions then go with soft assertion
+
+
+AAA --> Arrange, Act, & Assert
+
+Not Function
+
+isEnabled
+isSelected
+isDisplayed
+
+not.isEnabled();
+not.isSelected();
+not.isDispayed();
+
+
